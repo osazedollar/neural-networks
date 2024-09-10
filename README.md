@@ -91,9 +91,3 @@ For any questions or suggestions, feel free to reach out or create an issue in t
 
 Happy coding!
 ```
-
-### Instructions:
-- Replace `https://osazedollar/neural-networks.git with your actual GitHub repository link.
-- Update the contact section with your preferred contact details or GitHub profile link if necessary.
-
-This README provides an overview of your project, instructions on how to set it up, and explains the basic functionality of your neural network implementation. Let me know if you'd like any modifications or additional sections!
